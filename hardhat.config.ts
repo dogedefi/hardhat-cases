@@ -1,5 +1,8 @@
 import type { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox-viem";
+import "@nomicfoundation/hardhat-ethers";
+
+import "./tasks/accounts";
 
 const INFURA_API_KEY = "5f8cbc2e323b4613b0cab671d1c31ee3";
 const SEPOLIA_PRIVATE_KEY =
