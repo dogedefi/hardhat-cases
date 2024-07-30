@@ -6,7 +6,8 @@
     "test": "hardhat test",
     "compile": "hardhat compile",
     "compile:force": "hardhat compile --force",
-    "clean": "hardhat clean"
+    "clean": "hardhat clean",
+    "node": "hardhat node"
   },
   "keywords": [],
   "author": "",

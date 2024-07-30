@@ -1,0 +1,13 @@
+✔ Confirm deploy to network sepolia (11155111)? … yes
+Hardhat Ignition 🚀
+
+Deploying [ LockModule ]
+
+Batch #1
+  Executed LockModule#Lock
+
+[ LockModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+LockModule#Lock - 0x21A506b7e165d5B918E224E37f6Fd9A793FfF8e6
