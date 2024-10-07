@@ -1,0 +1,45 @@
+Deploying [ LockModule ]
+
+Batch #1
+Executed LockModule#Lock
+
+[ LockModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+LockModule#Lock - 0xbb39a09fA78eaeF03de853185c054f93B7f460F3
+
+Verifying deployed contracts
+
+Error in plugin hardhat-ignition: IGN1002: Verification not natively supported for chainId 17000. Please use a custom chain configuration to add support.
+
+For more info run Hardhat with --show-stack-traces
+
+---
+
+✔ Confirm deploy to network holesky (17000)? … yes
+Hardhat Ignition 🚀
+
+Resuming existing deployment from ./ignition/deployments/chain-17000
+
+Deploying [ FriendManagerModule ]
+
+Warning - previously executed futures are not in the module:
+
+- LockModule#Lock
+
+Batch #1
+Executed FriendManagerModule#FriendManager
+
+[ FriendManagerModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+LockModule#Lock - 0xbb39a09fA78eaeF03de853185c054f93B7f460F3
+FriendManagerModule#FriendManager - 0xA01e33C59008EAEc754b63CDB4FF8869893D2504
+
+Verifying deployed contracts
+
+Error in plugin hardhat-ignition: IGN1002: Verification not natively supported for chainId 17000. Please use a custom chain configuration to add support.
+
+For more info run Hardhat with --show-stack-traces
